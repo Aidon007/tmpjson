@@ -15,13 +15,20 @@
           "displayName": "NAL. Z SEREM sma?one 240 g",
           "price": 5.00
         }
+		{
+          "type": "product",
+          "active": true,
+          "id": 2500179,
+          "displayName": "NAL. Z SALATKĄ sma?one 240 g",
+          "price": 5.00
+        }
       ],
       [
         {
           "type": "product",
           "active": true,
           "id": 2500143,
-          "displayName": "ROS?? Z MAKARONEM 300/100 g",
+          "displayName": "ROSÓŁ Z MAKARONEM 300/100 g",
           "price": 15.22
         },
         {
