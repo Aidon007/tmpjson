@@ -18,9 +18,9 @@
         {
           "type": "product",
           "active": true,
-          "id": 2500158,
-          "name": "KLOPSY Z SOSEM W?GIERSKIM 100/100 g",
-          "price": 8.00
+          "id": 2500213,
+          "name": "Test product 1 100/100 g",
+          "price": 25.00
         }
       ],
       [
@@ -41,9 +41,9 @@
         {
           "type": "product",
           "active": true,
-          "id": 2500158,
-          "name": "KLOPSY Z SOSEM W?GIERSKIM 100/100 g",
-          "price": 8.00
+          "id": 25002222,
+          "name": "Test product 2 1 100/100 g",
+          "price": 23.00
         }
       ]
     ]
