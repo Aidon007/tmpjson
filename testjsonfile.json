@@ -19,7 +19,7 @@
       [
         {
           "type": "product",
-          "active": true,
+          "active": false,
           "id": 2500143,
           "name": "ROSÓŁ Z MAKARONEM 300/100 g",
           "price": 15.22
