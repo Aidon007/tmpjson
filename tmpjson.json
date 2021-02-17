@@ -1,0 +1,88 @@
+[
+  {
+    "serial": "9b24561105f2e0dcd3ffcae6930131fd",
+    "data": [
+      [
+        {
+          "type": "category",
+          "id": 1,
+          "name": "Dania g??wne"
+        },
+        {
+          "type": "product",
+          "active": true,
+          "id": 2500179,
+          "name": "NAL. Z SEREM sma?one 240 g",
+          "price": 5.00
+        }
+      ],
+      [
+        {
+          "type": "product",
+          "active": true,
+          "id": 2500143,
+          "name": "ROS?? Z MAKARONEM 300/100 g",
+          "price": 15.22
+        },
+        {
+          "type": "product",
+          "active": true,
+          "id": 2500158,
+          "name": "KLOPSY Z SOSEM W?GIERSKIM 100/100 g",
+          "price": 8.00
+        }
+      ],
+      [
+        {
+          "type": "product",
+          "active": true,
+          "id": 2500143,
+          "name": "ROS?? Z MAKARONEM 300/100 g",
+          "price": 15.22
+        },
+        {
+          "type": "product",
+          "active": true,
+          "id": 2500158,
+          "name": "KLOPSY Z SOSEM W?GIERSKIM 100/100 g",
+          "price": 8.00
+        }
+      ]
+    ]
+  },
+  {
+    "serial": "5f43d04a9cebc074f94c7f571c9e4a6d",
+    "data": [
+      [
+        {
+          "type": "category",
+          "id": 2,
+          "name": "Pierogi"
+        },
+        {
+          "type": "product",
+          "active": true,
+          "id": 2500171,
+          "displayName": "PIEROGI Z MI?SEM kg",
+          "price": 39.00
+        }
+      ],
+      [
+        {
+          "type": "product",
+          "active": true,
+          "id": 2500143,
+          "displayName": "PIEROGI BEZ MI?SA 350 g",
+          "price": 15.22
+        },
+        {
+          "type": "product",
+          "active": true,
+          "id": 2500158,
+          "displayName": "PIEROGI Z TRUSKAWKAMI g",
+          "price": 10.00
+        }
+      ]
+    ]
+  }
+]
